@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KotlinRX</string>
+
+    <string name="base_url">http://kotlinrx.janczar.net</string>
+
+    <!-- Hello -->
+    <string name="say_hello">Say Hello</string>
+    <string name="open_register">Register</string>
+    <string name="auth_call">Say Authorized Hello</string>
+
+    <!-- Register -->
+    <string name="register_name">Name</string>
+    <string name="register_email">Email</string>
+    <string name="register_password">Password</string>
+    <string name="register">Register</string>
+
+
+
+
+</resources>
